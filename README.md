@@ -11,6 +11,7 @@ I'm an aspiring **Cyber Security Specialist and Ethical Pentester**, driven by c
 🧰 **Tools of the Trade** – proficient with **Burp Suite** and **Wireshark** for traffic analysis and security testing  
 🚀 **Learning Mindset** – always exploring new exploits, techniques, and ways to improve system defense  
 
+---
 
 ### 🧠 My Skill Set
 
