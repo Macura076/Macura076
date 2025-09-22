@@ -1,9 +1,6 @@
 # 🐍 Red Viper  
 
-> *"Silencioso como a víbora, rápido como um exploit bem planejado."*  
-
-## 🕶️ Sobre mim  
-🔴 **Codinome:** Red Viper  
+## Sobre mim   
 💻 **Área de atuação:** Segurança da Informação, Pentest Ético, Análise de Vulnerabilidades  
 🌐 **Missão:** Explorar, aprender e fortalecer sistemas para um ciberespaço mais seguro.  
 
