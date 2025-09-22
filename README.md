@@ -26,13 +26,9 @@ I'm a passionate **Cyber Security Specialist and Ethical Pentester**, driven by 
 
 ---
 
-### 📬 Contact Me
+### 📈 GitHub Stats
 
-<div align="left">
-  <a href="mailto:lipefalcirolli@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=58A6FF" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/lipexyz0/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=58A6FF" alt="Instagram" />
-  </a>
-</div>
+<a align="center" href="https://github.com/Macura076">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Macura076&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macura076&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
+</a>
