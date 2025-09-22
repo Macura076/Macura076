@@ -1,6 +1,6 @@
-# 🐍 Red Viper  
+#   Red Viper  
 
-## 🐍 About Me – Red Viper  
+##  About Me 
 
 I'm an aspiring **Cyber Security Specialist and Ethical Pentester**, driven by curiosity and precision. My focus areas include:  
 
@@ -10,8 +10,6 @@ I'm an aspiring **Cyber Security Specialist and Ethical Pentester**, driven by c
 🌐 **Networking** – currently expanding my knowledge of network protocols and infrastructure  
 🧰 **Tools of the Trade** – proficient with **Burp Suite** and **Wireshark** for traffic analysis and security testing  
 🚀 **Learning Mindset** – always exploring new exploits, techniques, and ways to improve system defense  
-
-> *"I don’t break systems to destroy them—I uncover flaws to make them unbreakable."*  
 
 
 ### 🧠 My Skill Set
