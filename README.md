@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🐍 Red Viper  
 
-<!--
-**Macura076/Macura076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Silencioso como a víbora, rápido como um exploit bem planejado."*  
 
-Here are some ideas to get you started:
+## 🕶️ Sobre mim  
+🔴 **Codinome:** Red Viper  
+💻 **Área de atuação:** Segurança da Informação, Pentest Ético, Análise de Vulnerabilidades  
+🌐 **Missão:** Explorar, aprender e fortalecer sistemas para um ciberespaço mais seguro.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Habilidades  
+- 🐍 **Linguagens:** Python, Bash, JavaScript  
+- 🔒 **Segurança:** Pentest, OSINT, Engenharia Reversa  
+- 🧰 **Ferramentas:** Kali Linux, Burp Suite, Metasploit, Wireshark  
+- 🌑 **Áreas de Interesse:** Exploração de vulnerabilidades, CTFs, automação de testes de segurança  
+
+---
+
+## 🌐 Conexões  
+📂 **Repositórios:** Confira meus projetos e scripts aqui no Macura  
+📧 **Contato:** *(adicione um e-mail ou método de contato que você prefira)*  
+
+---
+
+## ⚡ Filosofia  
+> "Não se trata de quebrar sistemas para destruí-los, mas de entender suas falhas para torná-los invencíveis."  
+
