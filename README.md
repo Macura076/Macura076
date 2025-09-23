@@ -31,4 +31,5 @@ I'm a passionate **Cyber Security Specialist and Ethical Pentester**, driven by 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macura076&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
 </a>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macura076&layout=compact&langs_count=7&theme=dracula&cache_seconds=2000" alt="Top Languages"/>
 
