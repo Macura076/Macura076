@@ -27,8 +27,8 @@ I'm a passionate **Cyber Security Specialist and Ethical Pentester**, driven by 
 ---
 
 <a align="center" href="https://github.com/Macura076">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Macura076&show_icons=true&title_color=FF0000&text_color=FF0000&icon_color=FF0000&bg_color=000000&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macura076&layout=compact&langs_count=7&title_color=FF0000&text_color=FF0000&icon_color=FF0000&bg_color=000000&cache_seconds=2000" alt="Top Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Macura076&show_icons=true&title_color=FF0000&text_color=FF0000&icon_color=FF0000&bg_color=000000&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macura076&layout=compact&langs_count=7&title_color=FF0000&text_color=FF0000&icon_color=FF0000&bg_color=000000&cache_seconds=2000" alt="Top Languages"/>
 </a>
 
 
