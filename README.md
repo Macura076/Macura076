@@ -2,7 +2,9 @@
 
 ##  About Me 
 
-I'm a passionate **Cyber Security Specialist and Ethical Pentester**, driven by curiosity and precision. My focus areas include:  
+I'm a Software Developer and Cybersecurity enthusiast currently studying Systems Development.
+
+I enjoy building real-world projects involving automation, artificial intelligence and offensive security in controlled environments.
 
 🔒 **Pentesting & Vulnerability Assessment** – discovering and analyzing system weaknesses  
 🐍 **Programming** – building tools and scripts with **Python** and **Bash**  
