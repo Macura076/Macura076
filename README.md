@@ -1,4 +1,4 @@
-# 👋 Hi, I'm João Pedro Grigório (Red Viper)
+# I'm João Pedro Grigório (Red Viper)
 
 Software Developer • Python • Linux • Cybersecurity
 
@@ -68,3 +68,5 @@ Educational security projects focused on understanding attack techniques and imp
 ## 🎯 Goal
 
 I'm looking for my first professional opportunity where I can apply my skills, learn from experienced developers and contribute to meaningful projects.
+
+## 📊 GitHub Stats
